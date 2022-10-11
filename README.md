@@ -11,7 +11,7 @@
 
 <h3> <a href="https://www.linkedin.com/in/d-n-singh-49b85b1b2/">Linkedin</a> </h3>  
  
-**asmrdnsingh@gmail.com**
+**anuradhasingh93661@gmail.com**
 
 
 ## Languages:
