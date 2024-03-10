@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DNSingh-15" alt="Anuradha-04" /></a> </p>
 
-### 💬 Ask me about **JavaScript and Backend (Node.js)**
+### 💬 Ask me about **JavaScript and React **
 
 ## Connect with me:
 
