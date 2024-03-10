@@ -14,14 +14,9 @@
 **anuradhasingh93661@gmail.com**
 
 
-## Languages:
+## Languages and tools:
 
-<img src="html.jpg" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="css.jpg" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="js.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="node.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="markdown.png" alt="Girl in a jacket" width="50" height="45"> &nbsp;&nbsp;
-<img src="NGINX.png" alt="Girl in a jacket" width="40" height="40">
+HTML, CSS, tailwind css, JavaScript, React and Next
 
 ## Database:
 <img src="mongodb.png" alt="Girl in a jacket" width="40" height="40">
