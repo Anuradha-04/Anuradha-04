@@ -7,8 +7,9 @@
 
 ### 💬 Ask me about **JavaScript and React **
 
-## Connect with me:
+## Connect with me: 
 
+<h3> <a href="https://anuradhasingh.netlify.app/">Portfolio</a> </h3>  
 <h3> <a href="https://www.linkedin.com/in/d-n-singh-49b85b1b2/">Linkedin</a> </h3>  
  
 **anuradhasingh93661@gmail.com**
